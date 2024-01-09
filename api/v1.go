@@ -13,7 +13,7 @@ import (
 	"github.com/ian-kent/go-log/log"
 	"github.com/MarcelBreasWAY/MailHog-Server/config"
 	"github.com/mailhog/data"
-	"github.com/mailhog/storage"
+	"github.com/MarcelBreasWAY/storage"
 
 	"github.com/ian-kent/goose"
 )

@@ -9,7 +9,7 @@ import (
 	"github.com/ian-kent/envconf"
 	"github.com/MarcelBreasWAY/MailHog-Server/monkey"
 	"github.com/mailhog/data"
-	"github.com/mailhog/storage"
+	"github.com/MarcelBreasWAY/storage"
 )
 
 // DefaultConfig is the default config
