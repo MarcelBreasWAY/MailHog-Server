@@ -98,7 +98,7 @@ func (apiv2 *APIv2) getStartLimit(w http.ResponseWriter, req *http.Request) (sta
 }
 
 func (apiv2 *APIv2) messages(w http.ResponseWriter, req *http.Request) {
-	log.Println("[APIv2] GET /api/v2/messages")
+	log.Println("[APIv2] GET /api/v2/messages from github")
 
 	apiv2.defaultOptions(w, req)
 
