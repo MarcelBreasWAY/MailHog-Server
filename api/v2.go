@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"net/http"
 	"strconv"
-	"sort"
+	//"sort"
 
 	"github.com/gorilla/pat"
 	"github.com/ian-kent/go-log/log"
